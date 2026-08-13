@@ -26,4 +26,16 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kap100605-ux/LeetCode/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kap100605-ux/LeetCode/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kap100605-ux/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kap100605-ux/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
