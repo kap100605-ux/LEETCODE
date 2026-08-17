@@ -6,6 +6,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/kap100605-ux/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/kap100605-ux/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/kap100605-ux/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/kap100605-ux/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/kap100605-ux/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/kap100605-ux/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0994-rotting-oranges](https://github.com/kap100605-ux/LeetCode/tree/master/0994-rotting-oranges) |
 ## Sorting
 |  |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kap100605-ux/LeetCode/tree/master/0200-number-of-islands) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/kap100605-ux/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
