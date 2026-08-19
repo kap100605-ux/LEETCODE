@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kap100605-ux/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/kap100605-ux/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/kap100605-ux/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kap100605-ux/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -97,4 +98,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kap100605-ux/LeetCode/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kap100605-ux/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
