@@ -33,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/kap100605-ux/LeetCode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/kap100605-ux/LeetCode/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -88,4 +89,12 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kap100605-ux/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kap100605-ux/LeetCode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kap100605-ux/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
